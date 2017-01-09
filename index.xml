@@ -6,8 +6,40 @@
     <description>Recent content on CSE6240</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gt-cse6240.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://gt-cse6240.github.io/faq/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gt-cse6240.github.io/faq/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Where is the instructor today? A CS administrative issue prevents him from attending today.  Hopefully this will be resolved before the Wed lecture.&lt;/li&gt;
+&lt;li&gt;Is this class recorded?
+No.&lt;/li&gt;
+&lt;li&gt;Can I work on homeworks with others? No.&lt;/li&gt;
+&lt;li&gt;Can I audit the course or take it pass/fail?  Probably not because of seat demand.&lt;/li&gt;
+&lt;li&gt;Can I add this course?  You can try.  The enrollment as of Sun is &lt;sup&gt;98&lt;/sup&gt;&amp;frasl;&lt;sub&gt;98&lt;/sub&gt; seats, with a waiting list at &lt;sup&gt;123&lt;/sup&gt;&amp;frasl;&lt;sub&gt;150&lt;/sub&gt;.  We will be selective in overloads and there are limited seats available.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m an undergrad: can I take the course? Yes.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m not a CS student: can I take the course? Yes.&lt;/li&gt;
+&lt;li&gt;Does this course require a strong math background?  Not really.  There is a fair amount of linear algebra and probability, but from a programming or user point of view, not a mathermatical point of view.  For example: if you can understand the concept of PCA and the 1-5 lines of python required to perform it, that is sufficient.&lt;/li&gt;
+&lt;li&gt;Does the course require a strong programming background?  You should be familiar with python, and willing to put in the time to complete programming assignments.  We&amp;rsquo;ll start off modestly but quickly progress.  You don&amp;rsquo;t have to be an expert, but you might need to put in some extra time to become fast and fluent with python.  In particular, we will use the Anaconda python distribution, ipython notebooks, sklearn, pandas, gensim and tensorflow.&lt;/li&gt;
+&lt;li&gt;Are make-up assignments allowed?  No. See the late policy in the syllabus.&lt;/li&gt;
+&lt;li&gt;Is this the same course as Winter 2016?  Yes, but the syllabus has changed about 30%.  Instead of emphasizing ML optimization we are going to add back some more text- and nlp-specific content.&lt;/li&gt;
+&lt;li&gt;What is this course about?  In a nutshell: machine learning topics for recommender systems, text mining and nlp and deep learning.  With some extras sprinkled in.&lt;/li&gt;
+&lt;li&gt;What is the instructor&amp;rsquo;s goal for the students for this course?  To gain a basic understanding of text mining techniques, couched in machine learning; to acquire practical skills for text processing and machine learning in python and tensorflow; to improve scholarship skills by preparing a research paper and participating in the advanced topics lectures.&lt;/li&gt;
+&lt;li&gt;But that&amp;rsquo;s not about &amp;ldquo;web search&amp;hellip;&amp;rdquo;?  Correct. This course was created over a decade ago.  In the interim, web has become synonymous with &amp;ldquo;scale&amp;rdquo; and text mining has evolved into ML and recommender systems.  As such, we adjusted the syllabus last year to reflect these newer emphases.&lt;/li&gt;
+&lt;li&gt;Will we cover graphs and social media?  Probably not, because of time, but we may touch on this in homeworks or advanced topics.&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s up with the guest speakers?  Exposure to other points-of-view is great for developing context in learning.  They also help cover my travel time as I&amp;rsquo;m a full-time employee of Symantec. :)&lt;/li&gt;
+&lt;li&gt;What about the advanced topics?  Ideally I will assign 2-3 papers each lecture for us to review which will cover advanced topics in machine learning, nlp and deep learning.  I&amp;rsquo;ll put together very light slideware to facilitate discussion, but we will discuss and debate as a class.&lt;/li&gt;
+&lt;li&gt;Is the syllabus a contract? Absolutely not!  I reserve the right to modify the syllabus schedule at any time to adjust for course dynamics.  I do not anticipate changing any aspect of grading, but again: dates may change!&lt;/li&gt;
+&lt;li&gt;Is attendance required?  I do not enforce this via grading, but it&amp;rsquo;s in your best interest to attend to stay on top of material for homeworks, etc.&lt;/li&gt;
+&lt;li&gt;Why random project teams?  It&amp;rsquo;s better distribution of talent for teams, it&amp;rsquo;s how the real world works (your co-workers are essentially random, and you don&amp;rsquo;t necessarily get to pick your work teams), and it faciliates socialization in the class.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>home</title>
