@@ -93,13 +93,13 @@ Projects can be submitted up to 1 week late at a flat penalty of 30%.  After 1 w
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Jan 9&lt;/td&gt;
+&lt;td&gt;Jan 09&lt;/td&gt;
 &lt;td&gt;Abbreviated course (syllabus out)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Jan 11&lt;/td&gt;
 &lt;td&gt;Course Overview and Linear Algebra Review&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -113,9 +113,205 @@ Projects can be submitted up to 1 week late at a flat penalty of 30%.  After 1 w
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Jan 18&lt;/td&gt;
-&lt;td&gt;MLK Holiday &amp;ndash; No Class&lt;/td&gt;
+&lt;td&gt;Data representations &amp;amp; text encoding&lt;/td&gt;
+&lt;td&gt;HW 1 out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Jan 23&lt;/td&gt;
+&lt;td&gt;Embeddings 1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Jan 25&lt;/td&gt;
+&lt;td&gt;Embeddings 2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Jan 30&lt;/td&gt;
+&lt;td&gt;Machine Learning Review&lt;/td&gt;
+&lt;td&gt;HW 1 due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Feb 01&lt;/td&gt;
+&lt;td&gt;Recommender Systems 1&lt;/td&gt;
+&lt;td&gt;HW 2 out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Feb 06&lt;/td&gt;
+&lt;td&gt;Recommender Systems 2&lt;/td&gt;
+&lt;td&gt;Project out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Feb 08&lt;/td&gt;
+&lt;td&gt;Deep learning concepts &amp;amp; overview&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Feb 13&lt;/td&gt;
+&lt;td&gt;Guest Lecture 1: TensorFlow 1 &amp;amp; autoencoders&lt;/td&gt;
+&lt;td&gt;HW 2 due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Feb 15&lt;/td&gt;
+&lt;td&gt;Guest Lecture 2: TensorFlow 2&lt;/td&gt;
+&lt;td&gt;HW 3 out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Feb 20&lt;/td&gt;
+&lt;td&gt;Training &amp;amp; (hyper) parameter tuning&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Feb 22&lt;/td&gt;
+&lt;td&gt;Experiment design and performance measurement&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Feb 27&lt;/td&gt;
+&lt;td&gt;Deep learning: CNNs&lt;/td&gt;
+&lt;td&gt;HW 3 due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mar 01&lt;/td&gt;
+&lt;td&gt;Deep learning: LSTMs 1&lt;/td&gt;
+&lt;td&gt;HW 4 out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Mar 06&lt;/td&gt;
+&lt;td&gt;Deep Learning: LSTMs 2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mar 08&lt;/td&gt;
+&lt;td&gt;Guest lecture 3: Bayesian techniques&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Mar 13&lt;/td&gt;
+&lt;td&gt;Topic modeling&lt;/td&gt;
+&lt;td&gt;HW 4 due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mar 15&lt;/td&gt;
+&lt;td&gt;Sentiment analysis&lt;/td&gt;
+&lt;td&gt;Project due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;Mar 20&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Spring Break&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mar 22&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;Mar 27&lt;/td&gt;
+&lt;td&gt;Guest lecture 4: Clustering&lt;/td&gt;
+&lt;td&gt;Paper out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mar 29&lt;/td&gt;
+&lt;td&gt;Text clustering&lt;/td&gt;
+&lt;td&gt;HW 5 out&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;Apr 03&lt;/td&gt;
+&lt;td&gt;Exploration vs. exploitation &amp;amp; bandits&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Apr 05&lt;/td&gt;
+&lt;td&gt;Probabilistic data structures&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;Apr 10&lt;/td&gt;
+&lt;td&gt;Count-min sketch&lt;/td&gt;
+&lt;td&gt;HW 5 due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Apr 12&lt;/td&gt;
+&lt;td&gt;Advanced Topics TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;Apr 17&lt;/td&gt;
+&lt;td&gt;Advanced Topics TBD&lt;/td&gt;
+&lt;td&gt;Paper due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Apr 19&lt;/td&gt;
+&lt;td&gt;Advanced Topics TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;Apr 24&lt;/td&gt;
+&lt;td&gt;Guest lecture 5: TBD&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Apr 26&lt;/td&gt;
+&lt;td&gt;No class&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
