@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "CSE6240"
+theme = "hyde"
+
+[params]
+  description = "Web Search & Text Mining (Spring 2017)"

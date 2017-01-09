@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE6240</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on CSE6240</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>home</title>
+      <link>http://replace-this-with-your-hugo-site.com/home/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/home/</guid>
+      <description>
+
+&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+
+&lt;p&gt;This course will cover the fundamentals of structured &amp;amp; unstructured data analysis for text and multimedia content exploration, with an emphasis on vector space representations and deep learning models.  It will focus on machine learning and algorithms suitable for these tasks, and cover both applications and scholarship.  Students are expected to have previous exposure to data mining and machine learning, and to be comfortable programming in python.&lt;/p&gt;
+
+&lt;h1 id=&#34;instructors&#34;&gt;Instructors&lt;/h1&gt;
+
+&lt;p&gt;Dr. Andrew Gardner &lt;a href=&#34;mailto:andywocky@gmail.com&#34;&gt;andywocky@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Course time: MW 4:35pm - 5:55pm&lt;/li&gt;
+&lt;li&gt;Office hours: W 3:30pm - 4:30pm (tentative)&lt;/li&gt;
+&lt;li&gt;Office: TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;tas&#34;&gt;TAs&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hang Su &lt;a href=&#34;mailto:hangsu@gatech.edu&#34;&gt;hangsu@gatech.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yuyu Zhang &lt;a href=&#34;mailto:yuyu@gatech.edu&#34;&gt;yuyu@gatech.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhaoming Wu &lt;a href=&#34;mailto:zhaoming@gatech.edu&#34;&gt;zhaoming@gatech.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Office Hours: TBD&lt;/p&gt;
+
+&lt;h1 id=&#34;textbook&#34;&gt;Textbook&lt;/h1&gt;
+
+&lt;p&gt;There is no formal textbook for this class.  We will provide links for materials as part of lectures.&lt;/p&gt;
+
+&lt;h1 id=&#34;piazza-t-square&#34;&gt;Piazza &amp;amp; T-square&lt;/h1&gt;
+
+&lt;p&gt;We will use Piazza for discussion and all announcements. Post your questions there. Our teaching staff and your fellow classmates will help answer them quickly. You can also use Pizza to find project teammates.&lt;/p&gt;
+
+&lt;p&gt;T-square will be used for submission of assignments and projects.&lt;/p&gt;
+
+&lt;h1 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h1&gt;
+
+&lt;p&gt;We welcome everyone to share their experiences in tackling issues and helping each other out, but please do not post your answers, as that may affect the learning experience of your fellow classmates.&lt;/p&gt;
+
+&lt;p&gt;You are allowed to loosely collaborate with fellow students, but your assignments should be worked on  independently.  Do not share answers with others.  All GT students must observe the honor code.  Any suspected plagiarism or academic misconduct will be reported and directly handled by the Office of Student Integrity (OSI).&lt;/p&gt;
+
+&lt;h1 id=&#34;grading&#34;&gt;Grading&lt;/h1&gt;
+
+&lt;h2 id=&#34;homework-50-of-grade&#34;&gt;Homework (50% of Grade)&lt;/h2&gt;
+
+&lt;p&gt;We plan to have 5 homework assignments in total, HW 1 - 5, which will consist of a mix of exercises, programming and other activities.  Homeworks will be due approximately two weeks after release.&lt;/p&gt;
+
+&lt;h2 id=&#34;projects-30-of-grade&#34;&gt;Projects (30% of Grade)&lt;/h2&gt;
+
+&lt;p&gt;We will assign one major project for the course, due before Spring Break.  This will be more significant in scope than the homeworks, and will require substantial programming effort.  For example, you may be asked to create a web applications for a recommendations system for movies, or an active learning image annotation tool.&lt;/p&gt;
+
+&lt;p&gt;Projects teams of four will be randomly assigned.  More details on project grading will be provided when released.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-paper-20-of-grade&#34;&gt;Research Paper (20% of Grade)&lt;/h2&gt;
+
+&lt;p&gt;One of the key skills a graduate student should master is the ability to conduct scholarly research on a topic.  Each student will be required to prepare a research paper of 10-15 pages length.  Topics and format will be discussed after Spring Break.&lt;/p&gt;
+
+&lt;h2 id=&#34;late-submission-policy&#34;&gt;Late Submission Policy&lt;/h2&gt;
+
+&lt;p&gt;Homework can be submitted up to 1 week late at a penalty of -10% per 24 hr period overdue.
+Projects can be submitted up to 1 week late at a flat penalty of 30%.  After 1 week the project will be scored as 0%.&lt;/p&gt;
+
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Jan 9&lt;/td&gt;
+&lt;td&gt;Abbreviated course (syllabus out)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Jan 11&lt;/td&gt;
+&lt;td&gt;Course Overview and Linear Algebra Review&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Jan 16&lt;/td&gt;
+&lt;td&gt;MLK Holiday &amp;ndash; No Class&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Jan 18&lt;/td&gt;
+&lt;td&gt;MLK Holiday &amp;ndash; No Class&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Advanced topics lectures will be facilitated, interactive classroom discussions of advanced papers related to text mining and natural language processing, deep learning and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
