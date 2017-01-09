@@ -5,3 +5,5 @@ theme = "hyde"
 
 [params]
   description = "Web Search & Text Mining (Spring 2017)"
+  themeColor = "theme-base-08"
+
