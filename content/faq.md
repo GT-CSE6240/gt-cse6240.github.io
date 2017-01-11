@@ -6,7 +6,7 @@ menu = "main"
 
 +++
 
-- Where is the instructor today? A CS administrative issue prevents him from attending today.  Hopefully this will be resolved before the Wed lecture.
+- ~~Where is the instructor today? A CS administrative issue prevents him from attending today.  Hopefully this will be resolved before the Wed lecture.~~
 - Is this class recorded? 
   No.
 - Can I work on homeworks with others? No.
