@@ -27,7 +27,7 @@ There is no formal textbook for this class.  We will provide links for materials
 
 # Piazza & T-square
 
-We will use Piazza for discussion and all announcements. Post your questions there. Our teaching staff and your fellow classmates will help answer them quickly. You can also use Pizza to find project teammates.
+We will use [Piazza](http://piazza.com/gatech/spring2017/cse6240) for discussion and all announcements. Post your questions there. Our teaching staff and your fellow classmates will help answer them quickly. You can also use Pizza to find project teammates.
 
 T-square will be used for submission of assignments and projects.
 
