@@ -20,7 +20,10 @@ Dr. Andrew Gardner <andywocky@gmail.com>
 - Yuyu Zhang <yuyu@gatech.edu>
 - Zhaoming Wu <zhaoming@gatech.edu> 
 
-Office Hours: TBD
+Office Hours: 
+- Wed, 11 - 12, Hang Su, CSE common area
+- Wed, 12 - 13, Yuyu Zhang, CSE common area
+- Wed, 15 - 16, Zhaoming Wu, CSE common area
 
 # Textbook
 There is no formal textbook for this class.  We will provide links for materials as part of lectures.
