@@ -14,17 +14,15 @@ Dr. Andrew Gardner <andywocky@gmail.com>
 - Office hours: M 3:30pm - 4:30pm
 - Office: TBD
 
-# TAs & OH
+# TAs & Office Hour
 
 - Hang Su <hangsu@gatech.edu>
 - Yuyu Zhang <yuyu@gatech.edu>
 - Zhaoming Wu <zhaoming@gatech.edu> 
 
-**Office Hour Location**: CSE common area (next to KLAUS 1324)
+**OH Location**: CSE common area (next to [KLAUS](http://goo.gl/maps/ujoEt) 1324)
 
-- W, 11 - 12, Hang Su
-- W, 12 - 13, Yuyu Zhang
-- W, 15 - 16, Zhaoming Wu
+**OH Time**: W 10:00AM - 12:00PM
 
 # Textbook
 There is no formal textbook for this class.  We will provide links for materials as part of lectures.
