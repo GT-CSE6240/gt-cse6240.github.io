@@ -21,6 +21,7 @@ Dr. Andrew Gardner <andywocky@gmail.com>
 - Zhaoming Wu <zhaoming@gatech.edu> 
 
 Office Hours: 
+
 - Wed, 11 - 12, Hang Su, CSE common area
 - Wed, 12 - 13, Yuyu Zhang, CSE common area
 - Wed, 15 - 16, Zhaoming Wu, CSE common area
