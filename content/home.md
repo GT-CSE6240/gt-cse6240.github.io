@@ -7,24 +7,24 @@ title = "home"
 # Course Description
 This course will cover the fundamentals of structured & unstructured data analysis for text and multimedia content exploration, with an emphasis on vector space representations and deep learning models.  It will focus on machine learning and algorithms suitable for these tasks, and cover both applications and scholarship.  Students are expected to have previous exposure to data mining and machine learning, and to be comfortable programming in python.  
 
-# Instructors
+# Instructor
 Dr. Andrew Gardner <andywocky@gmail.com>
 
 - Course time: MW 4:35pm - 5:55pm
-- Office hours: W 3:30pm - 4:30pm (tentative)
+- Office hours: M 3:30pm - 4:30pm
 - Office: TBD
 
-# TAs
+# TAs & OH
 
 - Hang Su <hangsu@gatech.edu>
 - Yuyu Zhang <yuyu@gatech.edu>
 - Zhaoming Wu <zhaoming@gatech.edu> 
 
-Office Hours: 
+**Office Hour Location**: CSE common area (next to KLAUS 1324)
 
-- Wed, 11 - 12, Hang Su, CSE common area
-- Wed, 12 - 13, Yuyu Zhang, CSE common area
-- Wed, 15 - 16, Zhaoming Wu, CSE common area
+- W, 11 - 12, Hang Su
+- W, 12 - 13, Yuyu Zhang
+- W, 15 - 16, Zhaoming Wu
 
 # Textbook
 There is no formal textbook for this class.  We will provide links for materials as part of lectures.
